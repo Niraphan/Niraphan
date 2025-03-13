@@ -29,5 +29,5 @@ I'm a third-year IT major student at KMUTT with a strong passion for frontend de
 
 ### 📊 My GitHub Stats ⚡
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Niraphan&theme=blueberry&count_private=true&hide_border=true&line_height=20)](https://github.com/SukumDecha)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niraphan&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/SukumDecha)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Niraphan&theme=blueberry&count_private=true&hide_border=true&line_height=20)](https://github.com/Niraphan)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niraphan&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/Niraphan)
